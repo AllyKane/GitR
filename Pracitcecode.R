@@ -12,4 +12,8 @@ adding
 #adding
 #morecode
 #morecode
+<<<<<<< HEAD
 lets make more conflict
+
+
+now I am creating a new conflict
